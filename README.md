@@ -22,7 +22,7 @@
 <!--Contact Section--> 
 <h2 align="start">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="start">
- <a href="https://www.linkedin.com/in/hiralprajapati/" target="_blank">
+ <a href="https://www.linkedin.com/feed/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
