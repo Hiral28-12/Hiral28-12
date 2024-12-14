@@ -4,9 +4,8 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="https://cdn.pixabay.com/photo/2017/03/14/04/15/night-owl-2144309_1280.jpg">
 </div>
-
 
 ### 🚀 About Me
 
@@ -17,21 +16,22 @@
 - 🏆 Aspiring to secure a **full-stack** or **front-end developer** role in an IT company.
 - 💻 Visit my [Portfolio](.....) for more details about me.
 - ❤ Contributing to Open Source.
-- 📫 How to reach me: hiralprajapati289@gmail.com
+- 📧 How to reach me: hiralprajapati289@gmail.com
 - ---
+
 <!--Contact Section--> 
 <h2 align="start">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="start">
- <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+ <a href="https://www.linkedin.com/in/hiralprajapati/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="hiralprajapati289@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+<a href="mailto:hiralprajapati289@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=hiralprajapati289@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/hiral.prajapati/" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=hiral.prajapati Instagram style="margin-bottom: 5px;" />
 </a>
 </div>
 
@@ -52,7 +52,6 @@
 - 🌟 Secure a **developer position** to grow my career in web development.
   
 ---
-
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
@@ -110,7 +109,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=What%20you%20get%20by%20achieving%20your%20goals%20is%20not%20as%20important%20as%20what%20you%20become%20by%20achieving%20your%20goals.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
@@ -123,7 +122,7 @@
 
 ------
 ### ⚡ **Fun Fact**
-I love learning about new web technologies and enjoy solving coding challenges!
+Challenges are opportunities in disguise—I love turning them into creative solutions!
 
 ---
 
