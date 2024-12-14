@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=hiralprajapati289@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/hiral.prajapati/" target="_blank">
+<a href="https://www.instagram.com/hiral_28_12/" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=hiral.prajapati Instagram style="margin-bottom: 5px;" />
 </a>
 </div>
