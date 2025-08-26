@@ -12,8 +12,8 @@
 - ✨ Love to build creative and interactive user interfaces.
 - 🌱 Always learning, exploring new technologies, and improving my skills.
 - 🎓 Graduate in **Master of Commerce (M.Com)** and a certified **Full Stack Developer**.
-- 💻 Focused on **React** and **Node.js** development.
-- 🏆 Aspiring to secure a **full-stack** or **front-end developer** role in an IT company.
+- 💻 Focused on **React**, **React Native** and **Node.js** development.
+- 🏆 Aspiring to secure a **Android Developer** or **front-end developer** role in an IT company.
 - 💻 Visit my [Portfolio](.....) for more details about me.
 - ❤ Contributing to Open Source.
 - 📧 How to reach me: hiralprajapati289@gmail.com
