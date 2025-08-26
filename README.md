@@ -38,7 +38,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="start">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="start">
-<img width="700px"  src="https://skillicons.dev/icons?i=html,css,js,react,react native,redux,Shopify,git,vscode,postman,figma"  />
+<img width="700px"  src="https://skillicons.dev/icons?i=html,css,js,react,redux,git,vscode,postman,figma"  />
 </p>
 <br />
 
