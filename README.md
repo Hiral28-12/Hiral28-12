@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm **Hiral Prajapati**!
 
-**Full Stack Developer | Passionate about Modern Web Development**
+**React Native Developer | Passionate about Modern App Development**
 
 <!--Night Owl image-->
 <div>
